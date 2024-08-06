@@ -20,7 +20,7 @@ About me:
     Scrum
     Kanban
 ## Documentation:
-### [Test plan](#testing-documentation)
+### [Test plan](#qa-portfolio-showcase)
     Check lists
     Test cases
 ### Web application testing
