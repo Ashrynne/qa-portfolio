@@ -4,8 +4,8 @@ About me:
     The portfolio, specifically sections that have to do with test cases, bug reports and so on, will be largely based on a piece of software that I created from this repository: https://github.com/Ashrynne/dewit-app.git
 ## Skills Overview(please, feel free to click on a skill that interests you to see examples of my work):
 ### Project management
-Jira
-Trello
+* Jira
+* Trello
 ### Slack
 ### Git
 ### GitHub(GitLab)
