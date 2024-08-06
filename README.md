@@ -19,7 +19,7 @@ About me:
     Scrum
     Kanban
 ### Documentation:
-    [Testing documentation](testing-documentation)
+    [Testing documentation](#testing-documentation)
     Check lists
     Test cases
 ### Web application testing
@@ -40,5 +40,7 @@ About me:
     SQL(SQLite, MySQL)
 ### Automation
     Selenium(seleniumbase with Python)
-testing-documentation
+
+
+Testing documentation
 
